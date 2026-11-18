@@ -1,0 +1,1115 @@
+[
+  {
+    "start_date_local": "2026-11-16T06:00:00",
+    "category": "WORKOUT",
+    "name": "S01 · Fuerza A",
+    "external_id": "plan50k-2026-11-16-0",
+    "type": "WeightTraining",
+    "description": "Sentadilla goblet 3x10 · Peso muerto rumano mancuernas 3x10 · Zancada atrás 3x8/pierna · Hip thrust 3x12 · Gemelos 1 pierna 3x15 · Plancha lateral 3x30s · Pallof press 3x10/lado",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2026-11-17T06:00:00",
+    "category": "WORKOUT",
+    "name": "S01 · Carrera fácil 3 km Z2",
+    "external_id": "plan50k-2026-11-17-1",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 10m Z2\n- 10m Z1 Caminata"
+  },
+  {
+    "start_date_local": "2026-11-19T06:00:00",
+    "category": "WORKOUT",
+    "name": "S01 · Carrera fácil 4 km Z2",
+    "external_id": "plan50k-2026-11-19-3",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 16m Z2"
+  },
+  {
+    "start_date_local": "2026-11-20T06:00:00",
+    "category": "WORKOUT",
+    "name": "S01 · Fuerza A",
+    "external_id": "plan50k-2026-11-20-4",
+    "type": "WeightTraining",
+    "description": "Sentadilla goblet 3x10 · Peso muerto rumano mancuernas 3x10 · Zancada atrás 3x8/pierna · Hip thrust 3x12 · Gemelos 1 pierna 3x15 · Plancha lateral 3x30s · Pallof press 3x10/lado",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2026-11-21T06:00:00",
+    "category": "WORKOUT",
+    "name": "S01 · Fondo largo 6 km Z2",
+    "external_id": "plan50k-2026-11-21-5",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 32m Z2 Fondo\nSi cuesta, 1 min caminando cada 10 min"
+  },
+  {
+    "start_date_local": "2026-11-22T06:00:00",
+    "category": "NOTE",
+    "name": "S01 · Semana 1 pretemporada: 13 km. Movilidad 10 min antes de cada carrera.",
+    "external_id": "plan50k-2026-11-22-6"
+  },
+  {
+    "start_date_local": "2026-11-23T06:00:00",
+    "category": "WORKOUT",
+    "name": "S02 · Fuerza A",
+    "external_id": "plan50k-2026-11-23-0",
+    "type": "WeightTraining",
+    "description": "Sentadilla goblet 3x10 · Peso muerto rumano mancuernas 3x10 · Zancada atrás 3x8/pierna · Hip thrust 3x12 · Gemelos 1 pierna 3x15 · Plancha lateral 3x30s · Pallof press 3x10/lado",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2026-11-24T06:00:00",
+    "category": "WORKOUT",
+    "name": "S02 · Carrera 4 km Z2 + 4x20s progresivos",
+    "external_id": "plan50k-2026-11-24-1",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 16m Z2\n4x\n- 20s Z4 Progresivo\n- 60s Z1 Caminar"
+  },
+  {
+    "start_date_local": "2026-11-26T06:00:00",
+    "category": "WORKOUT",
+    "name": "S02 · Carrera fácil 5 km Z2",
+    "external_id": "plan50k-2026-11-26-3",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 22m Z2"
+  },
+  {
+    "start_date_local": "2026-11-27T06:00:00",
+    "category": "WORKOUT",
+    "name": "S02 · Fuerza B",
+    "external_id": "plan50k-2026-11-27-4",
+    "type": "WeightTraining",
+    "description": "Sentadilla barra 4x6-8 · Peso muerto rumano barra 3x8 · Búlgara 3x8/pierna · Step-up alto 3x8/pierna · Gemelos en prensa 3x12 · Curl nórdico 3x5 · Dead bug 3x10/lado",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2026-11-28T06:00:00",
+    "category": "WORKOUT",
+    "name": "S02 · Fondo largo 8 km Z2",
+    "external_id": "plan50k-2026-11-28-5",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 46m Z2 Fondo"
+  },
+  {
+    "start_date_local": "2026-11-29T06:00:00",
+    "category": "NOTE",
+    "name": "S02 · Fin pretemporada. Test FC máx si te sentís bien (ver doc).",
+    "external_id": "plan50k-2026-11-29-6"
+  },
+  {
+    "start_date_local": "2026-11-30T06:00:00",
+    "category": "WORKOUT",
+    "name": "S03 · Fuerza A",
+    "external_id": "plan50k-2026-11-30-0",
+    "type": "WeightTraining",
+    "description": "Sentadilla goblet 3x10 · Peso muerto rumano mancuernas 3x10 · Zancada atrás 3x8/pierna · Hip thrust 3x12 · Gemelos 1 pierna 3x15 · Plancha lateral 3x30s · Pallof press 3x10/lado",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2026-12-01T06:00:00",
+    "category": "WORKOUT",
+    "name": "S03 · Carrera 5 km Z2 + 4x20s progresivos",
+    "external_id": "plan50k-2026-12-01-1",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 22m Z2\n4x\n- 20s Z4 Progresivo\n- 60s Z1 Caminar"
+  },
+  {
+    "start_date_local": "2026-12-03T06:00:00",
+    "category": "WORKOUT",
+    "name": "S03 · Carrera fácil 5 km Z2",
+    "external_id": "plan50k-2026-12-03-3",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 22m Z2"
+  },
+  {
+    "start_date_local": "2026-12-04T06:00:00",
+    "category": "WORKOUT",
+    "name": "S03 · Fuerza B",
+    "external_id": "plan50k-2026-12-04-4",
+    "type": "WeightTraining",
+    "description": "Sentadilla barra 4x6-8 · Peso muerto rumano barra 3x8 · Búlgara 3x8/pierna · Step-up alto 3x8/pierna · Gemelos en prensa 3x12 · Curl nórdico 3x5 · Dead bug 3x10/lado",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2026-12-05T06:00:00",
+    "category": "WORKOUT",
+    "name": "S03 · Fondo largo 10 km Z2",
+    "external_id": "plan50k-2026-12-05-5",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 60m Z2 Fondo"
+  },
+  {
+    "start_date_local": "2026-12-07T06:00:00",
+    "category": "WORKOUT",
+    "name": "S04 · Fuerza A",
+    "external_id": "plan50k-2026-12-07-0",
+    "type": "WeightTraining",
+    "description": "Sentadilla goblet 3x10 · Peso muerto rumano mancuernas 3x10 · Zancada atrás 3x8/pierna · Hip thrust 3x12 · Gemelos 1 pierna 3x15 · Plancha lateral 3x30s · Pallof press 3x10/lado",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2026-12-08T06:00:00",
+    "category": "WORKOUT",
+    "name": "S04 · Carrera 6 km Z2 + 6x20s progresivos",
+    "external_id": "plan50k-2026-12-08-1",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 29m Z2\n6x\n- 20s Z4 Progresivo\n- 60s Z1 Caminar"
+  },
+  {
+    "start_date_local": "2026-12-10T06:00:00",
+    "category": "WORKOUT",
+    "name": "S04 · Carrera fácil 5 km Z2",
+    "external_id": "plan50k-2026-12-10-3",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 22m Z2"
+  },
+  {
+    "start_date_local": "2026-12-11T06:00:00",
+    "category": "WORKOUT",
+    "name": "S04 · Fuerza B",
+    "external_id": "plan50k-2026-12-11-4",
+    "type": "WeightTraining",
+    "description": "Sentadilla barra 4x6-8 · Peso muerto rumano barra 3x8 · Búlgara 3x8/pierna · Step-up alto 3x8/pierna · Gemelos en prensa 3x12 · Curl nórdico 3x5 · Dead bug 3x10/lado",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2026-12-12T06:00:00",
+    "category": "WORKOUT",
+    "name": "S04 · Fondo largo 12 km Z2",
+    "external_id": "plan50k-2026-12-12-5",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 74m Z2 Fondo"
+  },
+  {
+    "start_date_local": "2026-12-13T06:00:00",
+    "category": "NOTE",
+    "name": "S04 · Test FC máx esta semana o la próxima. Reconfigurar zonas en Garmin Connect.",
+    "external_id": "plan50k-2026-12-13-6"
+  },
+  {
+    "start_date_local": "2026-12-14T06:00:00",
+    "category": "WORKOUT",
+    "name": "S05 · Fuerza A",
+    "external_id": "plan50k-2026-12-14-0",
+    "type": "WeightTraining",
+    "description": "Sentadilla goblet 3x10 · Peso muerto rumano mancuernas 3x10 · Zancada atrás 3x8/pierna · Hip thrust 3x12 · Gemelos 1 pierna 3x15 · Plancha lateral 3x30s · Pallof press 3x10/lado",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2026-12-15T06:00:00",
+    "category": "WORKOUT",
+    "name": "S05 · Carrera 6 km Z2 + 6x20s progresivos",
+    "external_id": "plan50k-2026-12-15-1",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 29m Z2\n6x\n- 20s Z4 Progresivo\n- 60s Z1 Caminar"
+  },
+  {
+    "start_date_local": "2026-12-17T06:00:00",
+    "category": "WORKOUT",
+    "name": "S05 · Carrera fácil 6 km Z2",
+    "external_id": "plan50k-2026-12-17-3",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 29m Z2"
+  },
+  {
+    "start_date_local": "2026-12-18T06:00:00",
+    "category": "WORKOUT",
+    "name": "S05 · Fuerza B",
+    "external_id": "plan50k-2026-12-18-4",
+    "type": "WeightTraining",
+    "description": "Sentadilla barra 4x6-8 · Peso muerto rumano barra 3x8 · Búlgara 3x8/pierna · Step-up alto 3x8/pierna · Gemelos en prensa 3x12 · Curl nórdico 3x5 · Dead bug 3x10/lado",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2026-12-19T06:00:00",
+    "category": "WORKOUT",
+    "name": "S05 · Fondo largo 14 km Z2",
+    "external_id": "plan50k-2026-12-19-5",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 88m Z2 Fondo\nLlevar agua. Probar gel o comida a los 45 min."
+  },
+  {
+    "start_date_local": "2026-12-21T06:00:00",
+    "category": "WORKOUT",
+    "name": "S06 · Fuerza A (carga -20 %)",
+    "external_id": "plan50k-2026-12-21-0",
+    "type": "WeightTraining",
+    "description": "Sentadilla goblet 3x10 · Peso muerto rumano mancuernas 3x10 · Zancada atrás 3x8/pierna · Hip thrust 3x12 · Gemelos 1 pierna 3x15 · Plancha lateral 3x30s · Pallof press 3x10/lado",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2026-12-22T06:00:00",
+    "category": "WORKOUT",
+    "name": "S06 · Carrera fácil 5 km Z2",
+    "external_id": "plan50k-2026-12-22-1",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 22m Z2"
+  },
+  {
+    "start_date_local": "2026-12-24T06:00:00",
+    "category": "WORKOUT",
+    "name": "S06 · Carrera fácil 5 km Z2",
+    "external_id": "plan50k-2026-12-24-3",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 22m Z2"
+  },
+  {
+    "start_date_local": "2026-12-26T06:00:00",
+    "category": "WORKOUT",
+    "name": "S06 · Fondo largo 10 km Z2",
+    "external_id": "plan50k-2026-12-26-5",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 60m Z2 Fondo"
+  },
+  {
+    "start_date_local": "2026-12-27T06:00:00",
+    "category": "NOTE",
+    "name": "S06 · Semana de descarga (Navidad).",
+    "external_id": "plan50k-2026-12-27-6"
+  },
+  {
+    "start_date_local": "2026-12-28T06:00:00",
+    "category": "WORKOUT",
+    "name": "S07 · Fuerza A",
+    "external_id": "plan50k-2026-12-28-0",
+    "type": "WeightTraining",
+    "description": "Sentadilla goblet 3x10 · Peso muerto rumano mancuernas 3x10 · Zancada atrás 3x8/pierna · Hip thrust 3x12 · Gemelos 1 pierna 3x15 · Plancha lateral 3x30s · Pallof press 3x10/lado",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2026-12-29T06:00:00",
+    "category": "WORKOUT",
+    "name": "S07 · Carrera 7 km Z2 + 6x20s progresivos",
+    "external_id": "plan50k-2026-12-29-1",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 36m Z2\n6x\n- 20s Z4 Progresivo\n- 60s Z1 Caminar"
+  },
+  {
+    "start_date_local": "2026-12-31T06:00:00",
+    "category": "WORKOUT",
+    "name": "S07 · Carrera fácil 7 km Z2",
+    "external_id": "plan50k-2026-12-31-3",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 36m Z2"
+  },
+  {
+    "start_date_local": "2027-01-01T06:00:00",
+    "category": "WORKOUT",
+    "name": "S07 · Fuerza B",
+    "external_id": "plan50k-2027-01-01-4",
+    "type": "WeightTraining",
+    "description": "Sentadilla barra 4x6-8 · Peso muerto rumano barra 3x8 · Búlgara 3x8/pierna · Step-up alto 3x8/pierna · Gemelos en prensa 3x12 · Curl nórdico 3x5 · Dead bug 3x10/lado",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2027-01-02T06:00:00",
+    "category": "WORKOUT",
+    "name": "S07 · Fondo largo 16 km Z2",
+    "external_id": "plan50k-2027-01-02-5",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 102m Z2 Fondo"
+  },
+  {
+    "start_date_local": "2027-01-03T06:00:00",
+    "category": "NOTE",
+    "name": "S07 · Fin fase 1. Si el 16 km salió cómodo y sin dolor, pasa a fase 2. Anotar ritmo Z2.",
+    "external_id": "plan50k-2027-01-03-6"
+  },
+  {
+    "start_date_local": "2027-01-04T06:00:00",
+    "category": "WORKOUT",
+    "name": "S08 · Fuerza B",
+    "external_id": "plan50k-2027-01-04-0",
+    "type": "WeightTraining",
+    "description": "Sentadilla barra 4x6-8 · Peso muerto rumano barra 3x8 · Búlgara 3x8/pierna · Step-up alto 3x8/pierna · Gemelos en prensa 3x12 · Curl nórdico 3x5 · Dead bug 3x10/lado",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2027-01-05T06:00:00",
+    "category": "WORKOUT",
+    "name": "S08 · Carrera fácil 7 km Z2",
+    "external_id": "plan50k-2027-01-05-1",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 36m Z2"
+  },
+  {
+    "start_date_local": "2027-01-05T07:00:00",
+    "category": "WORKOUT",
+    "name": "S08 · Fuerza corta",
+    "external_id": "plan50k-2027-01-05-1-1",
+    "type": "WeightTraining",
+    "description": "25-30 min, después de la carrera fácil. Press mancuernas 3x8 · Remo mancuerna 3x10/lado · Jalón o dominadas asistidas 3x8 · Curl nórdico 3x5 · Gemelos 1 pierna 3x12 · Plancha frontal 3x40s",
+    "moving_time": 1800
+  },
+  {
+    "start_date_local": "2027-01-06T06:00:00",
+    "category": "WORKOUT",
+    "name": "S08 · Cuestas 6x30s Z4 (8 km)",
+    "external_id": "plan50k-2027-01-06-2",
+    "type": "Run",
+    "description": "- 13m Z1 Calentamiento (2 km)\n6x\n- 30s Z4 Subida\n- 2m Z1 Bajar trotando\n- 15m Z2 Vuelta"
+  },
+  {
+    "start_date_local": "2027-01-08T06:00:00",
+    "category": "WORKOUT",
+    "name": "S08 · Carrera fácil 6 km Z2",
+    "external_id": "plan50k-2027-01-08-4",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 29m Z2"
+  },
+  {
+    "start_date_local": "2027-01-09T06:00:00",
+    "category": "WORKOUT",
+    "name": "S08 · Fondo largo 18 km Z2",
+    "external_id": "plan50k-2027-01-09-5",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 116m Z2 Fondo"
+  },
+  {
+    "start_date_local": "2027-01-11T06:00:00",
+    "category": "WORKOUT",
+    "name": "S09 · Fuerza B",
+    "external_id": "plan50k-2027-01-11-0",
+    "type": "WeightTraining",
+    "description": "Sentadilla barra 4x6-8 · Peso muerto rumano barra 3x8 · Búlgara 3x8/pierna · Step-up alto 3x8/pierna · Gemelos en prensa 3x12 · Curl nórdico 3x5 · Dead bug 3x10/lado",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2027-01-12T06:00:00",
+    "category": "WORKOUT",
+    "name": "S09 · Carrera fácil 7 km Z2",
+    "external_id": "plan50k-2027-01-12-1",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 36m Z2"
+  },
+  {
+    "start_date_local": "2027-01-12T07:00:00",
+    "category": "WORKOUT",
+    "name": "S09 · Fuerza corta",
+    "external_id": "plan50k-2027-01-12-1-1",
+    "type": "WeightTraining",
+    "description": "25-30 min, después de la carrera fácil. Press mancuernas 3x8 · Remo mancuerna 3x10/lado · Jalón o dominadas asistidas 3x8 · Curl nórdico 3x5 · Gemelos 1 pierna 3x12 · Plancha frontal 3x40s",
+    "moving_time": 1800
+  },
+  {
+    "start_date_local": "2027-01-13T06:00:00",
+    "category": "WORKOUT",
+    "name": "S09 · Cuestas 8x30s Z4 (8 km)",
+    "external_id": "plan50k-2027-01-13-2",
+    "type": "Run",
+    "description": "- 13m Z1 Calentamiento (2 km)\n8x\n- 30s Z4 Subida\n- 2m Z1 Bajar trotando\n- 10m Z2 Vuelta"
+  },
+  {
+    "start_date_local": "2027-01-15T06:00:00",
+    "category": "WORKOUT",
+    "name": "S09 · Carrera fácil 7 km Z2",
+    "external_id": "plan50k-2027-01-15-4",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 36m Z2"
+  },
+  {
+    "start_date_local": "2027-01-16T06:00:00",
+    "category": "WORKOUT",
+    "name": "S09 · Fondo largo 20 km Z2",
+    "external_id": "plan50k-2027-01-16-5",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 130m Z2 Fondo"
+  },
+  {
+    "start_date_local": "2027-01-18T06:00:00",
+    "category": "WORKOUT",
+    "name": "S10 · Fuerza B",
+    "external_id": "plan50k-2027-01-18-0",
+    "type": "WeightTraining",
+    "description": "Sentadilla barra 4x6-8 · Peso muerto rumano barra 3x8 · Búlgara 3x8/pierna · Step-up alto 3x8/pierna · Gemelos en prensa 3x12 · Curl nórdico 3x5 · Dead bug 3x10/lado",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2027-01-19T06:00:00",
+    "category": "WORKOUT",
+    "name": "S10 · Carrera fácil 8 km Z2",
+    "external_id": "plan50k-2027-01-19-1",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 42m Z2"
+  },
+  {
+    "start_date_local": "2027-01-19T07:00:00",
+    "category": "WORKOUT",
+    "name": "S10 · Fuerza corta",
+    "external_id": "plan50k-2027-01-19-1-1",
+    "type": "WeightTraining",
+    "description": "25-30 min, después de la carrera fácil. Press mancuernas 3x8 · Remo mancuerna 3x10/lado · Jalón o dominadas asistidas 3x8 · Curl nórdico 3x5 · Gemelos 1 pierna 3x12 · Plancha frontal 3x40s",
+    "moving_time": 1800
+  },
+  {
+    "start_date_local": "2027-01-20T06:00:00",
+    "category": "WORKOUT",
+    "name": "S10 · Cuestas 6x1m Z4 (9 km)",
+    "external_id": "plan50k-2027-01-20-2",
+    "type": "Run",
+    "description": "- 13m Z1 Calentamiento (2 km)\n6x\n- 1m Z4 Subida\n- 2m Z1 Bajar trotando\n- 21m Z2 Vuelta"
+  },
+  {
+    "start_date_local": "2027-01-22T06:00:00",
+    "category": "WORKOUT",
+    "name": "S10 · Carrera 7 km Z2 + 6x20s progresivos",
+    "external_id": "plan50k-2027-01-22-4",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 36m Z2\n6x\n- 20s Z4 Progresivo\n- 60s Z1 Caminar"
+  },
+  {
+    "start_date_local": "2027-01-23T06:00:00",
+    "category": "WORKOUT",
+    "name": "S10 · Fondo largo 22 km Z2",
+    "external_id": "plan50k-2027-01-23-5",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 144m Z2 Fondo"
+  },
+  {
+    "start_date_local": "2027-01-25T06:00:00",
+    "category": "WORKOUT",
+    "name": "S11 · Fuerza B (carga -20 %)",
+    "external_id": "plan50k-2027-01-25-0",
+    "type": "WeightTraining",
+    "description": "Sentadilla barra 4x6-8 · Peso muerto rumano barra 3x8 · Búlgara 3x8/pierna · Step-up alto 3x8/pierna · Gemelos en prensa 3x12 · Curl nórdico 3x5 · Dead bug 3x10/lado",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2027-01-26T06:00:00",
+    "category": "WORKOUT",
+    "name": "S11 · Carrera fácil 6 km Z2",
+    "external_id": "plan50k-2027-01-26-1",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 29m Z2"
+  },
+  {
+    "start_date_local": "2027-01-27T06:00:00",
+    "category": "WORKOUT",
+    "name": "S11 · Cuestas 4x30s Z4 (7 km)",
+    "external_id": "plan50k-2027-01-27-2",
+    "type": "Run",
+    "description": "- 13m Z1 Calentamiento (2 km)\n4x\n- 30s Z4 Subida\n- 2m Z1 Bajar trotando\n- 17m Z2 Vuelta"
+  },
+  {
+    "start_date_local": "2027-01-29T06:00:00",
+    "category": "WORKOUT",
+    "name": "S11 · Carrera fácil 5 km Z2",
+    "external_id": "plan50k-2027-01-29-4",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 22m Z2"
+  },
+  {
+    "start_date_local": "2027-01-30T06:00:00",
+    "category": "WORKOUT",
+    "name": "S11 · Fondo largo 14 km Z2",
+    "external_id": "plan50k-2027-01-30-5",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 88m Z2 Fondo"
+  },
+  {
+    "start_date_local": "2027-01-31T06:00:00",
+    "category": "NOTE",
+    "name": "S11 · Semana de descarga.",
+    "external_id": "plan50k-2027-01-31-6"
+  },
+  {
+    "start_date_local": "2027-02-01T06:00:00",
+    "category": "WORKOUT",
+    "name": "S12 · Fuerza B",
+    "external_id": "plan50k-2027-02-01-0",
+    "type": "WeightTraining",
+    "description": "Sentadilla barra 4x6-8 · Peso muerto rumano barra 3x8 · Búlgara 3x8/pierna · Step-up alto 3x8/pierna · Gemelos en prensa 3x12 · Curl nórdico 3x5 · Dead bug 3x10/lado",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2027-02-02T06:00:00",
+    "category": "WORKOUT",
+    "name": "S12 · Carrera fácil 8 km Z2",
+    "external_id": "plan50k-2027-02-02-1",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 42m Z2"
+  },
+  {
+    "start_date_local": "2027-02-02T07:00:00",
+    "category": "WORKOUT",
+    "name": "S12 · Fuerza corta",
+    "external_id": "plan50k-2027-02-02-1-1",
+    "type": "WeightTraining",
+    "description": "25-30 min, después de la carrera fácil. Press mancuernas 3x8 · Remo mancuerna 3x10/lado · Jalón o dominadas asistidas 3x8 · Curl nórdico 3x5 · Gemelos 1 pierna 3x12 · Plancha frontal 3x40s",
+    "moving_time": 1800
+  },
+  {
+    "start_date_local": "2027-02-03T06:00:00",
+    "category": "WORKOUT",
+    "name": "S12 · Tempo 20 min Z3 (10 km)",
+    "external_id": "plan50k-2027-02-03-2",
+    "type": "Run",
+    "description": "- 13m Z1 Calentamiento\n- 20m Z3 Tempo\n- 32m Z2 Vuelta"
+  },
+  {
+    "start_date_local": "2027-02-05T06:00:00",
+    "category": "WORKOUT",
+    "name": "S12 · Carrera 8 km Z2 + 6x20s progresivos",
+    "external_id": "plan50k-2027-02-05-4",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 42m Z2\n6x\n- 20s Z4 Progresivo\n- 60s Z1 Caminar"
+  },
+  {
+    "start_date_local": "2027-02-06T06:00:00",
+    "category": "WORKOUT",
+    "name": "S12 · Fondo largo 24 km Z2",
+    "external_id": "plan50k-2027-02-06-5",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 130m Z2 Fondo\n- 28m Z3 Últimos 4 km\nGel cada 40 min desde el min 60. 400-600 ml agua/h."
+  },
+  {
+    "start_date_local": "2027-02-07T06:00:00",
+    "category": "NOTE",
+    "name": "S12 · Fin fase 2. Tener zapatillas de trail y chaleco antes de la semana 13.",
+    "external_id": "plan50k-2027-02-07-6"
+  },
+  {
+    "start_date_local": "2027-02-08T06:00:00",
+    "category": "WORKOUT",
+    "name": "S13 · Fuerza C",
+    "external_id": "plan50k-2027-02-08-0",
+    "type": "WeightTraining",
+    "description": "Sentadilla barra 4x5 · Peso muerto 3x5 · Step-up alto mancuernas 3x6/pierna · Step-down 3x10/pierna · Saltos a cajón 3x6 · Gemelos excéntrico 1 pierna 3x10 · Pallof 2x10 + plancha lateral 2x40s",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2027-02-10T06:00:00",
+    "category": "WORKOUT",
+    "name": "S13 · Cuestas 6x2m Z3 (10 km)",
+    "external_id": "plan50k-2027-02-10-2",
+    "type": "Run",
+    "description": "- 13m Z1 Calentamiento (2 km)\n6x\n- 2m Z3 Subida\n- 2m Z1 Bajar trotando\n- 28m Z2 Vuelta"
+  },
+  {
+    "start_date_local": "2027-02-11T06:00:00",
+    "category": "WORKOUT",
+    "name": "S13 · Carrera fácil 8 km Z2",
+    "external_id": "plan50k-2027-02-11-3",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 42m Z2"
+  },
+  {
+    "start_date_local": "2027-02-11T07:00:00",
+    "category": "WORKOUT",
+    "name": "S13 · Fuerza corta",
+    "external_id": "plan50k-2027-02-11-3-1",
+    "type": "WeightTraining",
+    "description": "25-30 min, después de la carrera fácil. Press mancuernas 3x8 · Remo mancuerna 3x10/lado · Jalón o dominadas asistidas 3x8 · Curl nórdico 3x5 · Gemelos 1 pierna 3x12 · Plancha frontal 3x40s",
+    "moving_time": 1800
+  },
+  {
+    "start_date_local": "2027-02-11T08:00:00",
+    "category": "WORKOUT",
+    "name": "S13 · Caminata inclinada 20 min con chaleco",
+    "external_id": "plan50k-2027-02-11-3-2",
+    "type": "Walk",
+    "description": "- 20m Z3 Cinta al 12-15 %, caminar rápido con chaleco cargado, manos en muslos"
+  },
+  {
+    "start_date_local": "2027-02-13T06:00:00",
+    "category": "WORKOUT",
+    "name": "S13 · Fondo trail 26 km (800-1200 m D+)",
+    "external_id": "plan50k-2027-02-13-5",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 211m Z2 Trail con desnivel\nAreguá (Cerro Koi) o Ybycuí. Comer cada 40 min desde el min 30."
+  },
+  {
+    "start_date_local": "2027-02-14T06:00:00",
+    "category": "WORKOUT",
+    "name": "S13 · Back-to-back 8 km Z1-Z2",
+    "external_id": "plan50k-2027-02-14-6",
+    "type": "Run",
+    "description": "- 52m Z2 Piernas cansadas, sin mirar ritmo"
+  },
+  {
+    "start_date_local": "2027-02-15T06:00:00",
+    "category": "WORKOUT",
+    "name": "S14 · Fuerza C",
+    "external_id": "plan50k-2027-02-15-0",
+    "type": "WeightTraining",
+    "description": "Sentadilla barra 4x5 · Peso muerto 3x5 · Step-up alto mancuernas 3x6/pierna · Step-down 3x10/pierna · Saltos a cajón 3x6 · Gemelos excéntrico 1 pierna 3x10 · Pallof 2x10 + plancha lateral 2x40s",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2027-02-17T06:00:00",
+    "category": "WORKOUT",
+    "name": "S14 · Cuestas 5x3m Z3 (10 km)",
+    "external_id": "plan50k-2027-02-17-2",
+    "type": "Run",
+    "description": "- 13m Z1 Calentamiento (2 km)\n5x\n- 3m Z3 Subida\n- 2m Z1 Bajar trotando\n- 32m Z2 Vuelta\nCaminar rápido si la pendiente pasa del 15 %"
+  },
+  {
+    "start_date_local": "2027-02-18T06:00:00",
+    "category": "WORKOUT",
+    "name": "S14 · Carrera fácil 8 km Z2",
+    "external_id": "plan50k-2027-02-18-3",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 42m Z2"
+  },
+  {
+    "start_date_local": "2027-02-18T07:00:00",
+    "category": "WORKOUT",
+    "name": "S14 · Fuerza corta",
+    "external_id": "plan50k-2027-02-18-3-1",
+    "type": "WeightTraining",
+    "description": "25-30 min, después de la carrera fácil. Press mancuernas 3x8 · Remo mancuerna 3x10/lado · Jalón o dominadas asistidas 3x8 · Curl nórdico 3x5 · Gemelos 1 pierna 3x12 · Plancha frontal 3x40s",
+    "moving_time": 1800
+  },
+  {
+    "start_date_local": "2027-02-18T08:00:00",
+    "category": "WORKOUT",
+    "name": "S14 · Caminata inclinada 20 min con chaleco",
+    "external_id": "plan50k-2027-02-18-3-2",
+    "type": "Walk",
+    "description": "- 20m Z3 Cinta al 12-15 %, caminar rápido con chaleco cargado, manos en muslos"
+  },
+  {
+    "start_date_local": "2027-02-20T06:00:00",
+    "category": "WORKOUT",
+    "name": "S14 · Fondo trail 28 km (800-1200 m D+)",
+    "external_id": "plan50k-2027-02-20-5",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 228m Z2 Trail con desnivel\nComer cada 40 min desde el min 30."
+  },
+  {
+    "start_date_local": "2027-02-21T06:00:00",
+    "category": "WORKOUT",
+    "name": "S14 · Back-to-back 10 km Z1-Z2",
+    "external_id": "plan50k-2027-02-21-6",
+    "type": "Run",
+    "description": "- 65m Z2 Piernas cansadas, sin mirar ritmo"
+  },
+  {
+    "start_date_local": "2027-02-22T06:00:00",
+    "category": "WORKOUT",
+    "name": "S15 · Fuerza C (carga -20 %)",
+    "external_id": "plan50k-2027-02-22-0",
+    "type": "WeightTraining",
+    "description": "Sentadilla barra 4x5 · Peso muerto 3x5 · Step-up alto mancuernas 3x6/pierna · Step-down 3x10/pierna · Saltos a cajón 3x6 · Gemelos excéntrico 1 pierna 3x10 · Pallof 2x10 + plancha lateral 2x40s",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2027-02-23T06:00:00",
+    "category": "NOTE",
+    "name": "S15 · Semana de descarga.",
+    "external_id": "plan50k-2027-02-23-1"
+  },
+  {
+    "start_date_local": "2027-02-24T06:00:00",
+    "category": "WORKOUT",
+    "name": "S15 · Cuestas 4x2m Z3 (8 km)",
+    "external_id": "plan50k-2027-02-24-2",
+    "type": "Run",
+    "description": "- 13m Z1 Calentamiento (2 km)\n4x\n- 2m Z3 Subida\n- 2m Z1 Bajar trotando\n- 23m Z2 Vuelta"
+  },
+  {
+    "start_date_local": "2027-02-25T06:00:00",
+    "category": "WORKOUT",
+    "name": "S15 · Carrera fácil 6 km Z2",
+    "external_id": "plan50k-2027-02-25-3",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 29m Z2"
+  },
+  {
+    "start_date_local": "2027-02-25T07:00:00",
+    "category": "WORKOUT",
+    "name": "S15 · Caminata inclinada 15 min con chaleco",
+    "external_id": "plan50k-2027-02-25-3-1",
+    "type": "Walk",
+    "description": "- 15m Z3 Cinta al 12-15 %, caminar rápido con chaleco cargado, manos en muslos"
+  },
+  {
+    "start_date_local": "2027-02-27T06:00:00",
+    "category": "WORKOUT",
+    "name": "S15 · Fondo largo 18 km Z2",
+    "external_id": "plan50k-2027-02-27-5",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 116m Z2 Fondo"
+  },
+  {
+    "start_date_local": "2027-02-28T06:00:00",
+    "category": "WORKOUT",
+    "name": "S15 · Back-to-back 8 km Z1-Z2",
+    "external_id": "plan50k-2027-02-28-6",
+    "type": "Run",
+    "description": "- 52m Z2 Piernas cansadas, sin mirar ritmo"
+  },
+  {
+    "start_date_local": "2027-03-01T06:00:00",
+    "category": "WORKOUT",
+    "name": "S16 · Fuerza C",
+    "external_id": "plan50k-2027-03-01-0",
+    "type": "WeightTraining",
+    "description": "Sentadilla barra 4x5 · Peso muerto 3x5 · Step-up alto mancuernas 3x6/pierna · Step-down 3x10/pierna · Saltos a cajón 3x6 · Gemelos excéntrico 1 pierna 3x10 · Pallof 2x10 + plancha lateral 2x40s",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2027-03-03T06:00:00",
+    "category": "WORKOUT",
+    "name": "S16 · Cuestas 4x5m Z3 (11 km)",
+    "external_id": "plan50k-2027-03-03-2",
+    "type": "Run",
+    "description": "- 13m Z1 Calentamiento (2 km)\n4x\n- 5m Z3 Subida\n- 2m Z1 Bajar trotando\n- 43m Z2 Vuelta"
+  },
+  {
+    "start_date_local": "2027-03-04T06:00:00",
+    "category": "WORKOUT",
+    "name": "S16 · Carrera fácil 8 km Z2",
+    "external_id": "plan50k-2027-03-04-3",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 42m Z2"
+  },
+  {
+    "start_date_local": "2027-03-04T07:00:00",
+    "category": "WORKOUT",
+    "name": "S16 · Fuerza corta",
+    "external_id": "plan50k-2027-03-04-3-1",
+    "type": "WeightTraining",
+    "description": "25-30 min, después de la carrera fácil. Press mancuernas 3x8 · Remo mancuerna 3x10/lado · Jalón o dominadas asistidas 3x8 · Curl nórdico 3x5 · Gemelos 1 pierna 3x12 · Plancha frontal 3x40s",
+    "moving_time": 1800
+  },
+  {
+    "start_date_local": "2027-03-04T08:00:00",
+    "category": "WORKOUT",
+    "name": "S16 · Caminata inclinada 25 min con chaleco",
+    "external_id": "plan50k-2027-03-04-3-2",
+    "type": "Walk",
+    "description": "- 25m Z3 Cinta al 12-15 %, caminar rápido con chaleco cargado, manos en muslos"
+  },
+  {
+    "start_date_local": "2027-03-06T06:00:00",
+    "category": "WORKOUT",
+    "name": "S16 · Fondo trail 30 km (800-1200 m D+)",
+    "external_id": "plan50k-2027-03-06-5",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 245m Z2 Trail con desnivel\nCon mochila completa. Bajar al ritmo de carrera."
+  },
+  {
+    "start_date_local": "2027-03-07T06:00:00",
+    "category": "WORKOUT",
+    "name": "S16 · Back-to-back 12 km Z1-Z2",
+    "external_id": "plan50k-2027-03-07-6",
+    "type": "Run",
+    "description": "- 78m Z2 Piernas cansadas, sin mirar ritmo"
+  },
+  {
+    "start_date_local": "2027-03-08T06:00:00",
+    "category": "WORKOUT",
+    "name": "S17 · Fuerza C",
+    "external_id": "plan50k-2027-03-08-0",
+    "type": "WeightTraining",
+    "description": "Sentadilla barra 4x5 · Peso muerto 3x5 · Step-up alto mancuernas 3x6/pierna · Step-down 3x10/pierna · Saltos a cajón 3x6 · Gemelos excéntrico 1 pierna 3x10 · Pallof 2x10 + plancha lateral 2x40s",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2027-03-10T06:00:00",
+    "category": "WORKOUT",
+    "name": "S17 · Cuestas 8x2m Z4 (11 km)",
+    "external_id": "plan50k-2027-03-10-2",
+    "type": "Run",
+    "description": "- 13m Z1 Calentamiento (2 km)\n8x\n- 2m Z4 Subida\n- 2m Z1 Bajar trotando\n- 27m Z2 Vuelta\nBajadas rápidas y controladas"
+  },
+  {
+    "start_date_local": "2027-03-11T06:00:00",
+    "category": "WORKOUT",
+    "name": "S17 · Carrera fácil 9 km Z2",
+    "external_id": "plan50k-2027-03-11-3",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 48m Z2"
+  },
+  {
+    "start_date_local": "2027-03-11T07:00:00",
+    "category": "WORKOUT",
+    "name": "S17 · Fuerza corta",
+    "external_id": "plan50k-2027-03-11-3-1",
+    "type": "WeightTraining",
+    "description": "25-30 min, después de la carrera fácil. Press mancuernas 3x8 · Remo mancuerna 3x10/lado · Jalón o dominadas asistidas 3x8 · Curl nórdico 3x5 · Gemelos 1 pierna 3x12 · Plancha frontal 3x40s",
+    "moving_time": 1800
+  },
+  {
+    "start_date_local": "2027-03-11T08:00:00",
+    "category": "WORKOUT",
+    "name": "S17 · Caminata inclinada 25 min con chaleco",
+    "external_id": "plan50k-2027-03-11-3-2",
+    "type": "Walk",
+    "description": "- 25m Z3 Cinta al 12-15 %, caminar rápido con chaleco cargado, manos en muslos"
+  },
+  {
+    "start_date_local": "2027-03-13T06:00:00",
+    "category": "WORKOUT",
+    "name": "S17 · Fondo trail 32 km (800-1200 m D+)",
+    "external_id": "plan50k-2027-03-13-5",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 262m Z2 Trail con desnivel\nO 4 h 30 min, lo que llegue antes. Ybytyruzú si es posible."
+  },
+  {
+    "start_date_local": "2027-03-14T06:00:00",
+    "category": "WORKOUT",
+    "name": "S17 · Back-to-back 12 km Z1-Z2",
+    "external_id": "plan50k-2027-03-14-6",
+    "type": "Run",
+    "description": "- 78m Z2 Piernas cansadas, sin mirar ritmo"
+  },
+  {
+    "start_date_local": "2027-03-15T06:00:00",
+    "category": "WORKOUT",
+    "name": "S18 · Fuerza C (carga -20 %)",
+    "external_id": "plan50k-2027-03-15-0",
+    "type": "WeightTraining",
+    "description": "Sentadilla barra 4x5 · Peso muerto 3x5 · Step-up alto mancuernas 3x6/pierna · Step-down 3x10/pierna · Saltos a cajón 3x6 · Gemelos excéntrico 1 pierna 3x10 · Pallof 2x10 + plancha lateral 2x40s",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2027-03-16T06:00:00",
+    "category": "NOTE",
+    "name": "S18 · Semana de descarga.",
+    "external_id": "plan50k-2027-03-16-1"
+  },
+  {
+    "start_date_local": "2027-03-17T06:00:00",
+    "category": "WORKOUT",
+    "name": "S18 · Cuestas 4x3m Z3 (8 km)",
+    "external_id": "plan50k-2027-03-17-2",
+    "type": "Run",
+    "description": "- 13m Z1 Calentamiento (2 km)\n4x\n- 3m Z3 Subida\n- 2m Z1 Bajar trotando\n- 23m Z2 Vuelta"
+  },
+  {
+    "start_date_local": "2027-03-18T06:00:00",
+    "category": "WORKOUT",
+    "name": "S18 · Carrera fácil 7 km Z2",
+    "external_id": "plan50k-2027-03-18-3",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 36m Z2"
+  },
+  {
+    "start_date_local": "2027-03-18T07:00:00",
+    "category": "WORKOUT",
+    "name": "S18 · Caminata inclinada 15 min con chaleco",
+    "external_id": "plan50k-2027-03-18-3-1",
+    "type": "Walk",
+    "description": "- 15m Z3 Cinta al 12-15 %, caminar rápido con chaleco cargado, manos en muslos"
+  },
+  {
+    "start_date_local": "2027-03-20T06:00:00",
+    "category": "WORKOUT",
+    "name": "S18 · Fondo largo 20 km Z2",
+    "external_id": "plan50k-2027-03-20-5",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 130m Z2 Fondo"
+  },
+  {
+    "start_date_local": "2027-03-21T06:00:00",
+    "category": "WORKOUT",
+    "name": "S18 · Back-to-back 10 km Z1-Z2",
+    "external_id": "plan50k-2027-03-21-6",
+    "type": "Run",
+    "description": "- 65m Z2 Piernas cansadas, sin mirar ritmo"
+  },
+  {
+    "start_date_local": "2027-03-22T06:00:00",
+    "category": "WORKOUT",
+    "name": "S19 · Fuerza C",
+    "external_id": "plan50k-2027-03-22-0",
+    "type": "WeightTraining",
+    "description": "Sentadilla barra 4x5 · Peso muerto 3x5 · Step-up alto mancuernas 3x6/pierna · Step-down 3x10/pierna · Saltos a cajón 3x6 · Gemelos excéntrico 1 pierna 3x10 · Pallof 2x10 + plancha lateral 2x40s",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2027-03-23T06:00:00",
+    "category": "NOTE",
+    "name": "S19 · Semana pico. Anotar qué falló en el ensayo general.",
+    "external_id": "plan50k-2027-03-23-1"
+  },
+  {
+    "start_date_local": "2027-03-24T06:00:00",
+    "category": "WORKOUT",
+    "name": "S19 · Cuestas 3x8m Z3 (10 km)",
+    "external_id": "plan50k-2027-03-24-2",
+    "type": "Run",
+    "description": "- 13m Z1 Calentamiento (2 km)\n3x\n- 8m Z3 Subida\n- 2m Z1 Bajar trotando\n- 40m Z2 Vuelta"
+  },
+  {
+    "start_date_local": "2027-03-25T06:00:00",
+    "category": "WORKOUT",
+    "name": "S19 · Carrera fácil 8 km Z2",
+    "external_id": "plan50k-2027-03-25-3",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 42m Z2"
+  },
+  {
+    "start_date_local": "2027-03-25T07:00:00",
+    "category": "WORKOUT",
+    "name": "S19 · Fuerza corta",
+    "external_id": "plan50k-2027-03-25-3-1",
+    "type": "WeightTraining",
+    "description": "25-30 min, después de la carrera fácil. Press mancuernas 3x8 · Remo mancuerna 3x10/lado · Jalón o dominadas asistidas 3x8 · Curl nórdico 3x5 · Gemelos 1 pierna 3x12 · Plancha frontal 3x40s",
+    "moving_time": 1800
+  },
+  {
+    "start_date_local": "2027-03-25T08:00:00",
+    "category": "WORKOUT",
+    "name": "S19 · Caminata inclinada 30 min con chaleco",
+    "external_id": "plan50k-2027-03-25-3-2",
+    "type": "Walk",
+    "description": "- 30m Z3 Cinta al 12-15 %, caminar rápido con chaleco cargado, manos en muslos"
+  },
+  {
+    "start_date_local": "2027-03-27T06:00:00",
+    "category": "WORKOUT",
+    "name": "S19 · Fondo trail 34 km (800-1200 m D+)",
+    "external_id": "plan50k-2027-03-27-5",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 279m Z2 Trail con desnivel\nENSAYO GENERAL: mismo horario, desayuno, equipo y comida que la carrera. O 5 h."
+  },
+  {
+    "start_date_local": "2027-03-28T06:00:00",
+    "category": "WORKOUT",
+    "name": "S19 · Back-to-back 14 km Z1-Z2",
+    "external_id": "plan50k-2027-03-28-6",
+    "type": "Run",
+    "description": "- 91m Z2 Piernas cansadas, sin mirar ritmo"
+  },
+  {
+    "start_date_local": "2027-03-29T06:00:00",
+    "category": "WORKOUT",
+    "name": "S20 · Fuerza C (carga -30 %)",
+    "external_id": "plan50k-2027-03-29-0",
+    "type": "WeightTraining",
+    "description": "Sentadilla barra 4x5 · Peso muerto 3x5 · Step-up alto mancuernas 3x6/pierna · Step-down 3x10/pierna · Saltos a cajón 3x6 · Gemelos excéntrico 1 pierna 3x10 · Pallof 2x10 + plancha lateral 2x40s\nSin pliometría",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2027-03-30T06:00:00",
+    "category": "NOTE",
+    "name": "S20 · Empieza el taper. Volumen -30 %.",
+    "external_id": "plan50k-2027-03-30-1"
+  },
+  {
+    "start_date_local": "2027-03-31T06:00:00",
+    "category": "WORKOUT",
+    "name": "S20 · Cuestas 4x2m Z3 (8 km)",
+    "external_id": "plan50k-2027-03-31-2",
+    "type": "Run",
+    "description": "- 13m Z1 Calentamiento (2 km)\n4x\n- 2m Z3 Subida\n- 2m Z1 Bajar trotando\n- 23m Z2 Vuelta"
+  },
+  {
+    "start_date_local": "2027-04-01T06:00:00",
+    "category": "WORKOUT",
+    "name": "S20 · Carrera fácil 7 km Z2",
+    "external_id": "plan50k-2027-04-01-3",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 36m Z2"
+  },
+  {
+    "start_date_local": "2027-04-01T07:00:00",
+    "category": "WORKOUT",
+    "name": "S20 · Caminata inclinada 15 min con chaleco",
+    "external_id": "plan50k-2027-04-01-3-1",
+    "type": "Walk",
+    "description": "- 15m Z3 Cinta al 12-15 %, caminar rápido con chaleco cargado, manos en muslos"
+  },
+  {
+    "start_date_local": "2027-04-03T06:00:00",
+    "category": "WORKOUT",
+    "name": "S20 · Fondo trail 22 km (800-1200 m D+)",
+    "external_id": "plan50k-2027-04-03-5",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 177m Z2 Trail con desnivel\nÚltimo fondo de trail."
+  },
+  {
+    "start_date_local": "2027-04-04T06:00:00",
+    "category": "WORKOUT",
+    "name": "S20 · Back-to-back 8 km Z1-Z2",
+    "external_id": "plan50k-2027-04-04-6",
+    "type": "Run",
+    "description": "- 52m Z2 Piernas cansadas, sin mirar ritmo"
+  },
+  {
+    "start_date_local": "2027-04-05T06:00:00",
+    "category": "WORKOUT",
+    "name": "S21 · Fuerza ligera",
+    "external_id": "plan50k-2027-04-05-0",
+    "type": "WeightTraining",
+    "description": "Movilidad 20 min + core: plancha lateral 3x30s, dead bug 3x10, Pallof 2x10",
+    "moving_time": 3300
+  },
+  {
+    "start_date_local": "2027-04-06T06:00:00",
+    "category": "NOTE",
+    "name": "S21 · Nada nuevo desde acá: ni zapatillas, ni geles, ni ropa.",
+    "external_id": "plan50k-2027-04-06-1"
+  },
+  {
+    "start_date_local": "2027-04-07T06:00:00",
+    "category": "WORKOUT",
+    "name": "S21 · Cuestas 4x1m Z3 (7 km)",
+    "external_id": "plan50k-2027-04-07-2",
+    "type": "Run",
+    "description": "- 13m Z1 Calentamiento (2 km)\n4x\n- 1m Z3 Subida\n- 2m Z1 Bajar trotando\n- 17m Z2 Vuelta"
+  },
+  {
+    "start_date_local": "2027-04-08T06:00:00",
+    "category": "WORKOUT",
+    "name": "S21 · Carrera fácil 6 km Z2",
+    "external_id": "plan50k-2027-04-08-3",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 29m Z2"
+  },
+  {
+    "start_date_local": "2027-04-10T06:00:00",
+    "category": "WORKOUT",
+    "name": "S21 · Fondo largo 14 km Z2",
+    "external_id": "plan50k-2027-04-10-5",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 67m Z2 Fondo\n- 21m Z3 Últimos 3 km"
+  },
+  {
+    "start_date_local": "2027-04-12T06:00:00",
+    "category": "WORKOUT",
+    "name": "S22 · Movilidad 20 min",
+    "external_id": "plan50k-2027-04-12-0",
+    "type": "Yoga",
+    "description": "Movilidad cadera y tobillo",
+    "moving_time": 1200
+  },
+  {
+    "start_date_local": "2027-04-13T06:00:00",
+    "category": "WORKOUT",
+    "name": "S22 · Carrera 5 km Z2 + 4x20s progresivos",
+    "external_id": "plan50k-2027-04-13-1",
+    "type": "Run",
+    "description": "- 10m Z1 Calentamiento\n- 22m Z2\n4x\n- 20s Z4 Progresivo\n- 60s Z1 Caminar"
+  },
+  {
+    "start_date_local": "2027-04-15T06:00:00",
+    "category": "WORKOUT",
+    "name": "S22 · Trote 4 km Z1 muy suave",
+    "external_id": "plan50k-2027-04-15-3",
+    "type": "Run",
+    "description": "- 26m Z1"
+  },
+  {
+    "start_date_local": "2027-04-16T06:00:00",
+    "category": "NOTE",
+    "name": "S22 · Preparar todo. Carbohidratos 7-8 g/kg jueves y viernes. Dormir.",
+    "external_id": "plan50k-2027-04-16-4"
+  },
+  {
+    "start_date_local": "2027-04-17T06:00:00",
+    "category": "RACE_A",
+    "name": "S22 · CARRERA 50K TRAIL",
+    "external_id": "plan50k-2027-04-17-5",
+    "type": "Run",
+    "description": "Primeros 15 km más lento de lo que el cuerpo pide. Comer desde el min 30 cada 30-40 min."
+  },
+  {
+    "start_date_local": "2027-04-18T06:00:00",
+    "category": "NOTE",
+    "name": "S22 · Caminata 30 min. Siete días sin correr.",
+    "external_id": "plan50k-2027-04-18-6"
+  }
+]
