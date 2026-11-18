@@ -27,3 +27,11 @@ Cuando cambie el plan, reemplazar eventos_plan50k.json en el repo.
 
 Probar en local sin mandar nada:
     PLAN_FECHA=2027-02-11 python3 enviar_plan_telegram.py --dry-run
+
+## Alternativa sin GitHub Actions: Google Apps Script
+Si Actions no corre (cuenta bloqueada por facturación), usar apps_script/Code.gs:
+1. script.google.com > Nuevo proyecto > pegar Code.gs.
+2. Configuración del proyecto > Propiedades del script: TELEGRAM_TOKEN y TELEGRAM_CHAT_ID.
+3. Ejecutar "probar" (autorizar) > debe llegar el plan de hoy.
+4. Ejecutar "instalarDisparador" > queda diario entre 5 y 6 am.
+El script lee eventos_plan50k.json de este repo, así que el plan se sigue actualizando acá.
