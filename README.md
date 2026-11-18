@@ -18,7 +18,6 @@ Crear un repo privado y subir: enviar_plan_telegram.py, eventos_plan50k.json, .g
 Settings > Secrets and variables > Actions:
 - Secret  TELEGRAM_TOKEN   = el token del paso 1
 - Secret  TELEGRAM_CHAT_ID = el número del paso 2
-- Variable APP_URL         = https://claude.ai/artifact/HBrKi65AhfwXYLFdzbKxHy (opcional, agrega el link al final)
 
 ## 4. Probar
 Actions > "Plan del día por Telegram" > Run workflow. Debe llegar el plan de hoy en menos de un minuto.
